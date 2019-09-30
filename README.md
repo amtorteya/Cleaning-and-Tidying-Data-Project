@@ -2,7 +2,7 @@ Cleaning and Tidying Data Project
 Version 1.0
 
 The code takes the Human Activity Recognition Using Smartphones Dataset and processes it to build a tidy dataset.
-The tidy dataset consists of 180 observations across 30 subjects, one per each of six different activities, and 563 features.
+The tidy dataset consists of 180 observations across 30 subjects, one per each of six different activities, and 68 features.
 The original dataset has much more features, for the tidy dataset, only features estimated from mean values and stardard deviation were considered.
 
 
