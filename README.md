@@ -1,7 +1,5 @@
-==================================================================
 Cleaning and Tidying Data Project
 Version 1.0
-==================================================================
 
 The code takes the Human Activity Recognition Using Smartphones Dataset and processes it to build a tidy dataset.
 The tidy dataset consists of 180 observations across 30 subjects, one per each of six different activities, and 563 features.
@@ -9,7 +7,6 @@ The original dataset has much more features, for the tidy dataset, only features
 
 
 The dataset includes the following files:
-=========================================
 
 - 'README.txt'
 
@@ -21,7 +18,6 @@ The dataset includes the following files:
 
 
 Description of the code:
-========================
 
 First, the names of the features are retrieved from 'features.txt' and special characters (i.e. '-', '(', and ')') are removed.
 Activity labels are retrieved from áctivity_labels.txt')
