@@ -1,4 +1,3 @@
-setwd("D:/Google Drive/Proyectos/Data Science Specialization/Cleaning and Tidying Data/UCI HAR Dataset/")
 #Global data
 featureNames<-read.table("features.txt",stringsAsFactors=FALSE)[,2]
 featureNamesClean<-gsub("\\-|\\(|\\)","",featureNames)
